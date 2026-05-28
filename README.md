@@ -77,13 +77,17 @@ Coleta 30s do operador em postura neutra e deriva thresholds personalizados para
 
 ## Demonstração visual
 
-| Estado OK | Bocejo VIG-2 | Distração VIG-2 |
+| Estado OK | Microsono VIG-1 | Bocejo VIG-2 |
 |---|---|---|
-| ![ok](outputs/screenshots/01-estado-ok.png) | ![bocejo](outputs/screenshots/02-estado-vig2-bocejo.png) | ![distracao](outputs/screenshots/03-estado-vig2-distracao.png) |
+| ![ok](outputs/screenshots/01-ok.png) | ![microsono](outputs/screenshots/02-microsono.png) | ![bocejo](outputs/screenshots/03-bocejo.png) |
 
-| Microsono VIG-1 | Ausência VIG-1 | Timeline da sessão |
+| Ausência VIG-1 | Distração VIG-2 | Postura VIG-3 informativo |
 |---|---|---|
-| ![micro](outputs/screenshots/04-estado-vig1-microsono.png) | ![ausencia](outputs/screenshots/05-estado-vig1-ausencia.png) | ![timeline](outputs/timeline-exemplo.png) |
+| ![ausencia](outputs/screenshots/04-ausencia.png) | ![distracao](outputs/screenshots/05-distracao.png) | ![informativo](outputs/screenshots/06-informativo.png) |
+
+Timeline da sessão gerada pelo `replay_log.py`:
+
+![timeline](outputs/timeline-exemplo.png)
 
 ## Estrutura
 

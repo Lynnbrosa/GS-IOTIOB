@@ -106,7 +106,7 @@ Documentação técnica detalhada em [docs/arquitetura.md](docs/arquitetura.md) 
 
 ## Vídeo demonstrativo
 
-Link no YouTube: _adicionar após upload_
+https://youtu.be/yIbtZp0yQNo
 
 ## Integrantes
 
